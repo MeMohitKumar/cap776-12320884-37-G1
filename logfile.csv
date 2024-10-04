@@ -1,0 +1,108 @@
+
+2024-10-05 02:47:29,Main,User selected Register option.
+2024-10-05 02:47:30,Validate Email,Email ded validation: False.
+2024-10-05 02:47:30,Registration,Registration failed for ded: Invalid email format.
+2024-10-05 02:47:33,Main,User selected Register option.
+2024-10-05 02:47:34,Validate Email,Email dda validation: False.
+2024-10-05 02:47:34,Registration,Registration failed for dda: Invalid email format.
+2024-10-05 02:47:35,Main,User selected Login option.
+2024-10-05 02:47:35,Load Users,Users loaded successfully.
+2024-10-05 02:47:37,Validate Email,Email da validation: False.
+2024-10-05 02:47:39,Validate Email,Email fda validation: False.
+2024-10-05 02:47:40,Validate Email,Email dada validation: False.
+2024-10-05 02:47:41,Validate Email,Email asd validation: False.
+2024-10-05 02:47:48,Validate Email,Email vv@gmail.com validation: True.
+2024-10-05 02:48:55,Main,User selected Register option.
+2024-10-05 02:49:03,Validate Email,Email vv@gmail.com validation: True.
+2024-10-05 02:49:08,Validate Password,Password validation successful.
+2024-10-05 02:49:16,Load Users,Users loaded successfully.
+2024-10-05 02:49:16,Hash Password,Password hashed successfully.
+2024-10-05 02:49:16,Save User,User vv@gmail.com saved successfully.
+2024-10-05 02:49:16,Registration,User vv@gmail.com registered successfully.
+2024-10-05 02:49:18,Main,User selected Login option.
+2024-10-05 02:49:18,Load Users,Users loaded successfully.
+2024-10-05 02:49:23,Validate Email,Email vv@gmail.com validation: True.
+2024-10-05 02:49:27,Hash Password,Password hashed successfully.
+2024-10-05 02:49:43,Main,User selected Exit option.
+2024-10-05 02:50:26,Main,User selected Forgot Password option.
+2024-10-05 02:50:26,Load Users,Users loaded successfully.
+2024-10-05 02:50:33,Main,User selected Forgot Password option.
+2024-10-05 02:50:33,Load Users,Users loaded successfully.
+2024-10-05 02:50:54,Validate Password,Password validation successful.
+2024-10-05 02:50:54,Load Users,Users loaded successfully.
+2024-10-05 02:50:54,Hash Password,Password hashed successfully.
+2024-10-05 02:51:01,Main,User selected Login option.
+2024-10-05 02:51:01,Load Users,Users loaded successfully.
+2024-10-05 02:51:02,Validate Email,Email dfd validation: False.
+2024-10-05 02:51:06,Validate Email,Email ds validation: False.
+2024-10-05 02:51:13,Validate Email,Email vv@gmail.com validation: True.
+2024-10-05 02:51:14,Hash Password,Password hashed successfully.
+2024-10-05 02:51:22,Validate Email,Email vv@gmail.com validation: True.
+2024-10-05 02:51:24,Hash Password,Password hashed successfully.
+2024-10-05 02:51:32,Validate Email,Email vv@gmail.com validation: True.
+2024-10-05 02:51:33,Hash Password,Password hashed successfully.
+2024-10-05 02:51:39,Validate Email,Email vv@gmail.com validation: True.
+2024-10-05 02:51:40,Hash Password,Password hashed successfully.
+2024-10-05 02:51:46,Validate Email,Email vv@gmail.com validation: True.
+2024-10-05 02:51:48,Hash Password,Password hashed successfully.
+2024-10-05 02:59:21,Main,User selected Login option.
+2024-10-05 02:59:21,Load Users,Users loaded successfully.
+2024-10-05 02:59:28,Validate Email,Email vv@gmail.com validation: True.
+2024-10-05 02:59:32,Hash Password,Password hashed successfully.
+2024-10-05 02:59:38,Fetch News,Fetching news for keyword: technology
+2024-10-05 02:59:39,Fetch News,News fetched successfully for keyword: technology
+2024-10-05 02:59:43,Main,User selected Exit option.
+2024-10-05 03:57:55,Main,User selected Register option.
+2024-10-05 03:58:02,validate email,email jj@gamil.com validation: True.
+2024-10-05 03:58:08,Validate Password,Password verification successfully.
+2024-10-05 03:58:14,Load Users,user data loaded successfully.
+2024-10-05 03:58:14,Hash Password,password successfullu hashed.
+2024-10-05 03:58:14,Save User,user jj@gamil.com successfully saved.
+2024-10-05 03:58:14,Registration,User jj@gamil.com registered successfully.
+2024-10-05 03:58:16,Main,User selected Login option.
+2024-10-05 03:58:16,Load Users,user data loaded successfully.
+2024-10-05 03:58:25,validate email,email jj@gmail.com validation: True.
+2024-10-05 03:59:03,validate email,email jj@gmail.com validation: True.
+2024-10-05 04:00:07,validate email,email jj@gamil.com validation: True.
+2024-10-05 04:00:11,Hash Password,password successfullu hashed.
+2024-10-05 04:00:24,Fetch News,Fetching news for keyword: latest
+2024-10-05 04:00:25,Fetch News,News fetched successfully for keyword: latest
+2024-10-05 04:00:29,Main,User selected Register option.
+2024-10-05 04:00:43,validate email,email ff@gmail.com validation: True.
+2024-10-05 04:00:47,Validate Password,Password verification successfully.
+2024-10-05 04:00:54,Load Users,user data loaded successfully.
+2024-10-05 04:00:54,Hash Password,password successfullu hashed.
+2024-10-05 04:01:28,Main,User selected Login option.
+2024-10-05 04:01:28,Load Users,user data loaded successfully.
+2024-10-05 04:02:00,validate email,email ffhf validation: False.
+2024-10-05 04:02:04,validate email,"email python ""d:\Python\miniProject2.py"" validation: False."
+2024-10-05 04:02:06,validate email,email 1 validation: False.
+2024-10-05 04:02:13,validate email,email ff@gmail.com validation: True.
+2024-10-05 04:02:29,validate email,"email python ""d:\Python\miniProject2.py"" validation: False."
+2024-10-05 04:02:40,Main,User selected Register option.
+2024-10-05 04:02:47,validate email,email ff@gmail.com validation: True.
+2024-10-05 04:02:51,Validate Password,Password verification successfully.
+2024-10-05 04:02:55,Load Users,user data loaded successfully.
+2024-10-05 04:02:55,Hash Password,password successfullu hashed.
+2024-10-05 04:02:55,Save User,user ff@gmail.com successfully saved.
+2024-10-05 04:02:55,Registration,User ff@gmail.com registered successfully.
+2024-10-05 04:02:56,Main,User selected Login option.
+2024-10-05 04:02:56,Load Users,user data loaded successfully.
+2024-10-05 04:03:03,validate email,email ff@gmail.com validation: True.
+2024-10-05 04:03:08,Hash Password,password successfullu hashed.
+2024-10-05 04:03:11,Fetch News,Fetching news for keyword: new
+2024-10-05 04:03:13,Fetch News,News fetched successfully for keyword: new
+2024-10-05 04:04:03,Main,User selected Register option.
+2024-10-05 04:04:08,validate email,email dwds validation: False.
+2024-10-05 04:04:08,Registration,Registration failed for dwds: Invalid email format.
+2024-10-05 04:04:20,Main,User selected Login option.
+2024-10-05 04:04:20,Load Users,user data loaded successfully.
+2024-10-05 04:04:23,validate email,email sa validation: False.
+2024-10-05 04:04:32,validate email,email ff@gmail.com validation: True.
+2024-10-05 04:04:34,Hash Password,password successfullu hashed.
+2024-10-05 04:06:10,validate email,email 3 validation: False.
+2024-10-05 04:06:19,validate email,email ff@gmail.com validation: True.
+2024-10-05 04:06:24,Hash Password,password successfullu hashed.
+2024-10-05 04:06:32,validate email,email sdjs validation: False.
+2024-10-05 04:06:34,validate email,email djs validation: False.
+2024-10-05 04:06:36,validate email,email jdsd validation: False.
